@@ -1,10 +1,4 @@
 
-
-    HTML CSS JS 
-
-    Result
-    Skip Results Iframe
-
 // Utilities
 var Vector3 = {};
 var Matrix44 = {};
