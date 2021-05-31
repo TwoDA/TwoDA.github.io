@@ -20,7 +20,7 @@ blank.src = "blank.png"
 wall.src = "walls.png";
 packman.src = "packman.png";
 red.src = "red.png";
-pinky.src = "Pinky.png";
+//pinky.src = "Pinky.png";
 yellow.src = "yellow.png";
 blue.src = "Blue.png";
 
