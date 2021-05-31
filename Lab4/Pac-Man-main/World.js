@@ -253,7 +253,7 @@ function  Pinky(){
 }
 Pinky.prototype ={
     draw: function(){
-        ctx.drawImage(pinky,this.x*cellSize,this.y*cellSize,cellSize,cellSize);
+        //ctx.drawImage(pinky,this.x*cellSize,this.y*cellSize,cellSize,cellSize);
     },
     isMove: function(x,y){
         if(map[x][y] != 1){
@@ -403,7 +403,7 @@ function drawWorld(){
         RedE.draw();
         BlueE.draw();
         YellowE.draw();
-        PinkyE.draw();
+        //PinkyE.draw();
 
 }
 document.onkeydown = function(e)
